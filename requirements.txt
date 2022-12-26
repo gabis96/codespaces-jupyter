@@ -5,3 +5,5 @@ pandas
 torch
 torchvision==0.13.1
 tqdm==4.64.0
+yellowbrick==1.5
+openpyxl==3.0.10
