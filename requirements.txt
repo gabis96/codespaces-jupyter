@@ -7,3 +7,8 @@ torchvision==0.13.1
 tqdm==4.64.0
 yellowbrick==1.5
 openpyxl==3.0.10
+# colorMap==1.0.4
+shapely==2.0.0
+pyshp==2.3.1
+geopandas==0.12.2
+xlrd==2.0.1
