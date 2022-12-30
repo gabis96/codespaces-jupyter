@@ -1,5 +1,5 @@
 
-# Residential Segregation Analysis in Python 
+# Residential Segregation Analysis in Python :globe_with_meridians:	
 
 This project detects residential segregation using clustering algorithms. Particulary, the city of Paris is analized for the behavior of the variable that reports the proportion of social housing (housing served directly by the government). Public census data is used to extract information.
 
