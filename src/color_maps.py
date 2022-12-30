@@ -1,7 +1,6 @@
 import numpy as np
-from matplotlib import cm
-import matplotlib.pyplot as plt
-from matplotlib.colors import ListedColormap, LinearSegmentedColormap, rgb_to_hsv
+from matplotlib import cm, pyplot as plt
+from matplotlib.colors import ListedColormap
 
 class PlotColorMap:
     def __init__(self, colormap):
