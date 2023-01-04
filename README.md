@@ -41,7 +41,7 @@ To structure my project I have followed the *Cookiecutter* template.
 - **src**: folder storing all python code. 
     - **census_data.py**: file used for cleaning raw data. 
     - **color_maps.py**: file used for defining color schemes for map visualization.
-    - **map_data.py**: file used for create map from database.
+    - **map_data.py**: file used for creating map from database.
 - **requierements.py**: python dependencies.
 
 ## Results
