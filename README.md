@@ -23,9 +23,9 @@ To structure my project I have followed the *Cookiecutter* template.
         - **paris_social_housing_meanshift.csv**
         - **paris_social_housing_meanshift_centroids.csv**
         - **paris_social_housing_meanshift_map.csv**
-    - **processed**:
+    - **processed**: folder containing processed data.
         - **paris_social_housing.csv**: data after cleaning and filtering important feature.
-    - **raw**:
+    - **raw**: folder containing raw data.
         - **CONTOURS-IRIS_D075.dbf**: database containing data of Paris map. 
         - **CONTOURS-IRIS_D075.shp**: shapefile data of Paris map. 
         - **famillie_2014.csv**: public census data of Paris families.
@@ -41,7 +41,7 @@ To structure my project I have followed the *Cookiecutter* template.
 - **src**: folder storing all python code. 
     - **census_data.py**: file used for cleaning raw data. 
     - **color_maps.py**: file used for defining color schemes for map visualization.
-    - **map_data.py**: file used for create mapfrom database.
+    - **map_data.py**: file used for create map from database.
 - **requierements.py**: python dependencies.
 
 ## Results
